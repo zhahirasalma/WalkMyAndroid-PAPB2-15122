@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 24 12:25:48 ICT 2020
+0.baseType=DIRECTORY
+0.base=D\:\\SEMESTER 4\\PAPB 2\\android-advanced-starter-apps-master\\WalkMyAndroid-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
